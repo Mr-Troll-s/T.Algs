@@ -7,3 +7,14 @@ Monitoring & sharing the video feed, with image processing to detect users & act
 - sensor config & report
 - ...!
 
+# Features
+
+- Vision
+- Detection
+- Select Sensing
+
+#Sensors
+
+- Audio
+- Images!
+- Activity Detection
